@@ -20,7 +20,7 @@ const server = http.createServer((req, res) => {
 
 <h1 style="font-family:verdana" align="center" ><font color="#83ae22"> Pers&ouml;nlichkeit<font></h1>
 
-<p style="font-family:sans serif"align="center"><font color="black">Pers&ouml;nlichkeit ist nichts universeles, die Liebe kann es sein.<font></p>
+<p style="font-family:sans serif"align="center"><font color="black">Pers&ouml;nlichkeit ist nichts universelles, die Liebe kann es sein.<font></p>
 <p style="font-family:sans serif" align="center">Liebe ist: die Pers&ouml;nlichkeit deren Ausdruck man begegnet zu sch&auml;tzen, darum findet Ausdruck.</p>
 
 </body>
